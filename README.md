@@ -13,7 +13,7 @@ The main objective of this project is to build a machine learning model that can
 
 Dataset:
 
-The dataset used for this project contains historical credit card transactions, labeled as genuine or fraudulent. The data is highly imbalanced, with the majority of transactions being genuine and only a small fraction being fraudulent.
+The dataset used for this project is a dataset named creditcard.csv from Kaggle https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud and it contains historical credit card transactions, labeled as genuine or fraudulent. The data is highly imbalanced, with the majority of transactions being genuine and only a small fraction being fraudulent.
 
 Methodology:
 
